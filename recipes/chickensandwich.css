@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-bottom: 8px;
+}
+
+.description {
+    text-align: center;
+    background-color: yellow;
+    margin: 0px;
+    padding: 8px;
+}
